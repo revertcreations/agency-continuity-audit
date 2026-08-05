@@ -7,6 +7,8 @@
     "email": "support@revertcreations.com",
     "url": "https://revertcreations.com"
   },
+  "homepage": "https://github.com/revertcreations/agency-continuity-audit",
+  "repository": "https://github.com/revertcreations/agency-continuity-audit",
   "license": "MIT",
   "keywords": ["agents", "continuity", "memory", "audit", "evidence"],
   "skills": "./skills/",
