@@ -1,6 +1,6 @@
 {
   "name": "agency-continuity-audit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read-only audits for persistent agent goals, evidence, memory corrections, authority, and restart recovery.",
   "author": {
     "name": "Revert Creations",
